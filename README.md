@@ -3,7 +3,7 @@
 <!--<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">-->
 
 <p align="left"> 
-  I'm Matheus, I'm 27 years old and I have a degree in <strong>electrical engineering with an emphasis on embedded systems</strong>. I've been programming for over 7 years, and I've been programming for the web for over 3 years with Java, Typescript and other technologies.
+  I'm 27 years old and I have a degree in <strong>electrical engineering with an emphasis on embedded systems</strong>. I've been programming for over 7 years, and I've been programming for the web for over 3 years with Java, Typescript and other technologies.
 </p>
 
 <p align="left">
