@@ -62,6 +62,8 @@
   ![Prometheus](https://img.shields.io/badge/Prometheus-100000?style=for-the-badge&logo=Prometheus)
   ![Resilience4J](https://img.shields.io/badge/Resilience4J-100000?style=for-the-badge&logo=Java)
   ![Zipkin](https://img.shields.io/badge/Zipkin-100000?style=for-the-badge&logo=Zipkin)
+  ![Swagger](https://img.shields.io/badge/Swagger-100000?style=for-the-badge&logo=Swagger)
+
  </details>
   
 # My Status
