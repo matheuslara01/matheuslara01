@@ -16,11 +16,11 @@
 
 <p align="left">
 <a href="mailto:mateus.delara65@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:mateus.delara65@gmail.com" />
 </a>
 
 <a href="https://www.linkedin.com/in/matheus-lara-901192165" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-lara-901192165"/>
 </a>
 
 
@@ -81,6 +81,4 @@
 </div>
 
 
-<!--
-![overview](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/overview.svg)
-![langs used](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/languages.svg)
+
