@@ -66,7 +66,7 @@
 
  </details>
   
-# My Status
+<!--# My Status
 <div>
   <table style="margin: 0 auto;" align="center">
     <tr>
@@ -78,7 +78,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div>-->
 
 
 
