@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong> Microservices architecture </strong>
+  🕑 I'm Learning: <strong> GO Lang </strong>
 </p>
 
 <p align="left">
